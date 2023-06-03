@@ -1,2 +1,2 @@
-# 모바일 프로젝트 to do list
+# 모바일 프로젝트 To Do List
 
